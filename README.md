@@ -1,5 +1,7 @@
 Html ve css kullanılarak oluşturduğum basit bir portfolyo sayfası
 
+PC, Tablet ve cep telefonu ekranlarına göre görünümü değişen responsive bir tasarım.
+
 [Görüntülemek için tıklayınız](https://haydogdu1990.github.io/)
 
 # haydogdu1990.github.io
